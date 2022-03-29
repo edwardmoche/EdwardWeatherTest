@@ -1,0 +1,11 @@
+D:\Edward Program\C#\sesi-13\EdwardWeatherTest\bin\Release\net5.0\publish\EdwardWeatherTest.exe
+D:\Edward Program\C#\sesi-13\EdwardWeatherTest\bin\Release\net5.0\publish\appsettings.Development.json
+D:\Edward Program\C#\sesi-13\EdwardWeatherTest\bin\Release\net5.0\publish\appsettings.json
+D:\Edward Program\C#\sesi-13\EdwardWeatherTest\bin\Release\net5.0\publish\EdwardWeatherTest.dll
+D:\Edward Program\C#\sesi-13\EdwardWeatherTest\bin\Release\net5.0\publish\EdwardWeatherTest.deps.json
+D:\Edward Program\C#\sesi-13\EdwardWeatherTest\bin\Release\net5.0\publish\EdwardWeatherTest.runtimeconfig.json
+D:\Edward Program\C#\sesi-13\EdwardWeatherTest\bin\Release\net5.0\publish\EdwardWeatherTest.pdb
+D:\Edward Program\C#\sesi-13\EdwardWeatherTest\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+D:\Edward Program\C#\sesi-13\EdwardWeatherTest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Edward Program\C#\sesi-13\EdwardWeatherTest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Edward Program\C#\sesi-13\EdwardWeatherTest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
